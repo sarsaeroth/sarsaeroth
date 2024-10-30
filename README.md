@@ -14,7 +14,7 @@
     - [CVE-2023-23397](https://github.com/sarsaeroth/CVE-2023-23397-POC) - POC for an Outlook zero-click vulnerability allowing retrieval and cracking of NTLM credentials.
     - [CVE-2023-41064](https://github.com/sarsaeroth/CVE-2023-41064-POC) - POC for an Apple ImageI/O zero-click vulnerability allowing for remote code execution.
     - [CVE-2023-4863](https://github.com/sarsaeroth/CVE-2023-4863-POC) - POC for a libwebp zero-click vulnerability based on Huffman tables allowing for remote code execution.
-    - [FPGAcrypto](https://github.com/sarsaeroth/FPGAcrypto) - Library for simulating side-channel analysis of cryptographic algorithms in Verilog. Developed as a term project for CPRE5810.
+    - [FPGAcrypto](https://github.com/sarsaeroth/FPGAcrypto) - Library for simulating side-channel analysis of cryptographic algorithms in Verilog. Developed as a term project for CPRE 5810.
     - [MimiGhostz](https://github.com/sarsaeroth/MimiGhostz) - A version of Mimikatz that uses speculative execution to read the memory of a target process to grab credentials. Developed as a term project for CPRE 6810.
 
 <!---

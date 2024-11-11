@@ -16,6 +16,7 @@
     - [CVE-2023-4863](https://github.com/sarsaeroth/CVE-2023-4863-POC) - POC for a libwebp zero-click vulnerability based on Huffman tables allowing for remote code execution.
     - [FPGAcrypto](https://github.com/sarsaeroth/FPGAcrypto) - Library for simulating side-channel analysis of cryptographic algorithms in Verilog. Developed as a term project for CPRE 5810.
     - [MimiGhostz](https://github.com/sarsaeroth/MimiGhostz) - A version of Mimikatz that uses speculative execution to read the memory of a target process to grab credentials. Developed as a term project for CPRE 6810.
+    - [Pando](https://github.com/sarsaeroth/Pando) - A library for parallel computation of blockchain transaction structures I worked on as part of an LDRD. This repository contains my own public contributions.
 
 <!---
 sarsaeroth/sarsaeroth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

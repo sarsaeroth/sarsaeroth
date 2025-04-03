@@ -8,7 +8,8 @@
   - Python libraries for scientific computing. My undergraduate background is in mathematics and physics, and I occasionally have an interest in software development for non-security related purposes.
     - [PyHF](https://github.com/sarsaeroth/PyHF) - Python library for numerical computation of Hartree-Fock configurations in quantum mechanics.
     - [PyIsing](https://github.com/sarsaeroth/PyIsing) - Python library for adiabatic simulation of Ising spin glasses for certain NP-complete problems. Developed as a term project for COMS 5340.
-    - [PyPansophy](https://github.com/sarsaeroth/PyPansophy) - Python library for calculation of pansophy (expected number of disjoint paths) of a graph. Based off of the dissertation work of a friend.
+    - [PyPansophy](https://github.com/sarsaeroth/PyPansophy) - Python library for calculation of pansophy (expected number of disjoint paths) of a graph. Based off of the dissertation work of Isaac Waas.
+    - [PyQMC](https://github.com/sarsaeroth/PyQMC) - Python library for numerical calculation of solutions to problems arising from quantum Monte Carlo environments.
     - [PySL](https://github.com/sarsaeroth/PySL) - Python library for numerical calculation of solutions to Sturm-Liouville-type differential equations.
   - Security and vulnerability research. These will be written primarily, but not necessarily, in C/C++ to develop my coding skills in those environments. They will be focused on reverse engineering of exploits, especially based on the Linux and Windows kernels.
   -   [C-rypto](https://github.com/sarsaeroth/c-rypto) - A collection of C scripts written for solving various cryptographic challenges.

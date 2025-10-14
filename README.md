@@ -1,5 +1,5 @@
 - Hi, I’m Peter Clark. I am currently a Member of Technical Staff at Sandia National Laboratories, as well as a PhD student at Iowa State University in Computer Engineering with a focus on Secure and Reliable Computing.
-- I’m interested in cybersecurity. My general background is in analysis of distributed cryptographic systems, such as Bitcoin and Tor. More specifically, my interest has been in the analysis of proxy networks. 
+- I’m interested in cybersecurity. My general background is in analysis of distributed cryptographic systems, such as Bitcoin and Tor. More specifically, my interest has been in the analysis of proxy networks and distributed systems..
 - I'm currently working on teaching myself more offensive security principles, from general red teaming to more in-depth exploit development with a particular interest in kernel-level vulnerabilities.
 - Please reach out if there's any projects that you think I would be interested in collaborating on.
 - The best way to reach me for issues/collaboration is through pgclark @ iastate [.] edu

@@ -12,13 +12,16 @@
     - [PyQMC](https://github.com/sarsaeroth/PyQMC) - Python library for numerical calculation of solutions to problems arising from quantum Monte Carlo environments.
     - [PySL](https://github.com/sarsaeroth/PySL) - Python library for numerical calculation of solutions to Sturm-Liouville-type differential equations.
   - Security and vulnerability research. These will be written primarily, but not necessarily, in C/C++ to develop my coding skills in those environments. They will be focused on reverse engineering of exploits, especially based on the Linux and Windows kernels.
-  -   [C-rypto](https://github.com/sarsaeroth/c-rypto) - A collection of C scripts written for solving various cryptographic challenges.
+    <!---
+    - [C-rypto](https://github.com/sarsaeroth/c-rypto) - A collection of C scripts written for solving various cryptographic challenges.
     - [CVE-2023-23397](https://github.com/sarsaeroth/CVE-2023-23397-POC) - POC for an Outlook zero-click vulnerability allowing retrieval and cracking of NTLM credentials.
     - [CVE-2023-41064](https://github.com/sarsaeroth/CVE-2023-41064-POC) - POC for an Apple ImageI/O zero-click vulnerability allowing for remote code execution.
     - [CVE-2023-4863](https://github.com/sarsaeroth/CVE-2023-4863-POC) - POC for a libwebp zero-click vulnerability based on Huffman tables allowing for remote code execution.
     - [FPGAcrypto](https://github.com/sarsaeroth/FPGAcrypto) - Library for simulating side-channel analysis of cryptographic algorithms in Verilog. Developed as a term project for CPRE 5810.
     - [MimiGhostz](https://github.com/sarsaeroth/MimiGhostz) - A version of Mimikatz that uses speculative execution to read the memory of a target process to grab credentials.
+    - [MageCraft](https://github.com/sarsaeroth/Magecraft) - A custom C2/implant framework inspired by SANS SEC670.
     - [Pando](https://github.com/sarsaeroth/Pando) - A library for parallel computation of blockchain transaction structures I worked on as part of an LDRD. This repository contains my own public contributions.
+    --->
 
 <!---
 sarsaeroth/sarsaeroth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
